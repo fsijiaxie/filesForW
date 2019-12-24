@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2"> <Placemark>
- <name>Simple placemark</name>
- <description>Attached to the ground. Intelligently places itself at the height of the underlying terrain.</description>
+ <name>Snowplow1</name>
+ <description>snowplow</description>
  <Point>
- <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+ <coordinates>39.44983047,140.48267084,0</coordinates>
  </Point>
  <Icon>
  <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>

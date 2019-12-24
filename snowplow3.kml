@@ -3,8 +3,8 @@
 
   <Document>
     <name>Snowplow Location</name>
-    <open>1</open>
-    <description>Unleash your creativity with the help of these examples!</description>
+
+    <description>Snowplows!</description>
     <Style id="globeIcon">
       <IconStyle>
         <Icon>
@@ -17,7 +17,7 @@
       <name>snowplow folder</name>
       <description>snowplows</description>
       <Placemark>
-        <name>urn:ngsi-ld:Snowplow1:101</name>
+        <name>Snowplow1</name>
         <description>snowplow</description>
         <styleUrl>#globeIcon</styleUrl>
         <Point>
@@ -25,7 +25,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>urn:ngsi-ld:Snowplow2:101</name>
+        <name>Snowplow2</name>
         <description>snowplow</description>
         <styleUrl>#globeIcon</styleUrl>
         <Point>

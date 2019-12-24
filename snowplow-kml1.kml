@@ -11,3 +11,7 @@
  <coordinates>39.44983047,140.48267084,0</coordinates>
  </Point>
  </Placemark> </kml>
+ 
+ <Icon>
+ <href>https://github.com/fsijiaxie/filesForWirecloud/blob/master/snowplow_OR.gif</href>
+ <Icon>

@@ -5,7 +5,7 @@
     <name>Snowplow Location</name>
     <open>1</open>
     <description>Unleash your creativity with the help of these examples!</description>
-    <Style id="snowplowIcon">
+    <Style id="globeIcon">
       <IconStyle>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
@@ -16,8 +16,6 @@
     <Folder>
       <name>snowplow folder</name>
       <description>snowplows</description>
-      <LookAt>
-      </LookAt>
       <Placemark>
         <name>urn:ngsi-ld:Snowplow1:101</name>
         <description>snowplow</description>

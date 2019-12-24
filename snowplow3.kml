@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 
   <Document>
-    <name>KML Samples</name>
+    <name>Snowplow Location</name>
     <open>1</open>
     <description>Unleash your creativity with the help of these examples!</description>
     <Style id="snowplowIcon">
@@ -17,12 +17,6 @@
       <name>snowplow folder</name>
       <description>snowplows</description>
       <LookAt>
-        <longitude>37.491227</longitude>
-        <latitude>139.929943</latitude>
-        <altitude>0</altitude>
-        <heading>-148.4122922628044</heading>
-        <tilt>40.5575073395506</tilt>
-        <range>500.6566641072245</range>
       </LookAt>
       <Placemark>
         <name>urn:ngsi-ld:Snowplow1:101</name>

@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 
-    <Style id="globeIcon">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-
       <name>snowplow folder</name>
       <description>snowplows</description>
       <Placemark>
         <name>Snowplow1</name>
         <description>snowplow</description>
-        <styleUrl>#globeIcon</styleUrl>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
+        </Icon>
         <Point>
           <coordinates>39.44983047,140.48267084,0</coordinates>
         </Point>

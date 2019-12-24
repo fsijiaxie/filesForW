@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"> 
+<Placemark>
+ <name>urn:ngsi-ld:Snowplow1:101</name>
+ <description>snowplow</description>
+ <Point>
+ <coordinates>39.44983047,140.48267084,0</coordinates>
+ </Point>
+</Placemark> 
+<Placemark>
+ <name>urn:ngsi-ld:Snowplow2:101</name>
+ <description>snow plow</description>
+ <Point>
+ <coordinates>39.44983044,140.48267087,0</coordinates>
+ </Point>
+</Placemark> 
+</kml>

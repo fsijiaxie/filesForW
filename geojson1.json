@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [139.74543, 35.65858]
+  },
+  "properties": {
+    "name": "Tokyo Tower"
+  }
+}

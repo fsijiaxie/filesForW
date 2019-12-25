@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Snowplows</name>
+        <Style id="globeIcon">
+          <IconStyle>
+            <Icon>
+              <href>https://raw.githubusercontent.com/fsijiaxie/filesForWirecloud/master/snowplow_OR_s.gif</href>
+              <gx:w>138</gx:w>
+              <gx:h>138</gx:h>
+            </Icon>
+          </IconStyle>
+        </Style>
+
+        <Folder>
+            <name>SnowplowFolder</name>
+            <Placemark id="2012 Jan 15 13:40:16.40 UTC">
+                <name>Snowplow1</name>
+                <styleUrl>#globeIcon</styleUrl>
+                <Point>
+                    <coordinates>139.48267084,38.44983047,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 19 06:48:48.75 UTC">
+                <name>Snowplow2</name>
+                <styleUrl>#globeIcon</styleUrl>
+                <Point>
+                    <coordinates>140.48267087,39.44983044,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 19 06:48:48.75 UTC">
+                <name>Snowplow3</name>
+                <styleUrl>#globeIcon</styleUrl>
+                <Point>
+                    <coordinates>141.48267085,40.44983045,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
